@@ -4,6 +4,6 @@ I intend to spend any spare time working on this project to make it my first pub
 
 | Element  | Image |
 | -------- | ------------- |
-| Character  |   |
-| Level (1)  |   |
-| Design Document  | https://docs.google.com/document/d/e/2PACX-1vSBCUAeIa-b4wq0QBskNPG8pBaimnr0WioUt21_kMKtsECzu9a-hJlBBGDck6UUkw4nDoShoMSGvsQj/pub  |
+| Character  | ![Poncho Character](/assets/Pigeon_Goose_Render_Light_1.png) |
+| Level (1)  | ![Level 1 Image example](/assets/Screenshot_2026-05-16_151619.png) |
+| Design Document  | [Google Docs Link](https://docs.google.com/document/d/e/2PACX-1vSBCUAeIa-b4wq0QBskNPG8pBaimnr0WioUt21_kMKtsECzu9a-hJlBBGDck6UUkw4nDoShoMSGvsQj/pub)  |
