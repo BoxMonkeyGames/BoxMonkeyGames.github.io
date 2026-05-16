@@ -46,6 +46,7 @@ This artefact utilised the following technologies:
 - React JavaScript
 - XAMPP
 - CSS
+
 | Page  | Image |
 | ------------------ | ---------- |
 | Weapons Page  | ![Weapons Page](/assets/view-weapons.png) |
