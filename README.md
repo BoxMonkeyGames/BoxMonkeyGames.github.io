@@ -12,9 +12,9 @@ I intend to spend any spare time working on this project to make it my first pub
 
 <hr/>
 
-## Dissertation Project - Jamboree
-## Title: The Gamification of E-Learning
-## Subtitle: How Can Gamification & Interface Design Improve the Reception & User Retention of e-Learning?
+# Dissertation Project - Jamboree
+Title: The Gamification of E-Learning
+Subtitle: How Can Gamification & Interface Design Improve the Reception & User Retention of e-Learning?
 
 This dissertation worked to find if gamification and interface design can improve peoples' perceptions of e-learning as it becomes commonly adopted for things like education and workplace training.
 
