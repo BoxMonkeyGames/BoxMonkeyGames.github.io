@@ -1,5 +1,4 @@
-# BoxMonkeyGames.github.io
-A portfolio of my work in software development, comprised of works for website development, game development, art, and more.
-
-### Pigeon Goose
+# Pigeon Goose
 My current game development project made using Unreal Engine 5.
+I intend to spend any spare time working on this project to make it my first published indie game.
+
